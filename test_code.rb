@@ -47,3 +47,5 @@ puts ?1.class
 puts String.class
 
 'ddd'
+
+1111
