@@ -46,3 +46,4 @@ puts ?1.class
 %- asasss -.instance_of? String # перевірка чи ass
 puts String.class
 
+'ddd'
